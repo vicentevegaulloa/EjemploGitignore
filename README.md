@@ -1,0 +1,2 @@
+# EjemploGitignore
+Ejemplo gitignore
